@@ -24,7 +24,7 @@
 
 ## Отримання певної сутності після PATCH запиту:
 
-[8](https://github.com/DanilYaremenko/DB-Rest-API/blob/master/docs/test/assets/getallafterchange.jpg?raw=true)
+![8](https://github.com/DanilYaremenko/DB-Rest-API/blob/master/docs/test/assets/getallafterchange.jpg?raw=true)
 
 ## Видалення певної сутності по id (DELETE запит):
 
